@@ -1,12 +1,18 @@
 @charset "UTF-8"
-.Title{
+h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: blue;
-    font-weight: bold;
+    margin-left: 50px;
+    margin-right: auto;
 }  
 p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: normal;
     font-size: large;
     color: brown;
+    margin-left: 50px;
+    margin-right: auto;
+}
+.Image{
+    margin-left: 50px;
+    margin-right: auto;
 }
