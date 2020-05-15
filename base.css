@@ -7,6 +7,12 @@ p{
     font-weight: normal;
     font-size: large;
     color: brown;
+    margin-top: 20px;
+    border-color: darkgray;
+    border-top: 20px;
+    border-left: 20px;
+    border-bottom: 20px;
+    border-right: 20px;
 }
 .Image{
     
