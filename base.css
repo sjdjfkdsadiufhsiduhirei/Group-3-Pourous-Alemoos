@@ -1,5 +1,5 @@
 @charset "UTF-8"
-h1{
+;h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-right: auto;
     margin-left: auto;
@@ -16,7 +16,7 @@ p{
 }
 .Image{
     
-    width="300" height="150"
+    width:"300" height="150"
 }
 body{
     margin-left: auto;
