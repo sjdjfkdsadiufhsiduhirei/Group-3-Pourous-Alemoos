@@ -3,12 +3,13 @@
     font-family: Verdana, Geneva, Tahoma sans-serif;
     margin-right: auto;
     margin-left: auto;
+    color: darkblue;
 }  
 p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: normal;
     font-size: large;
-    color: brown;
+    color: dimgray;
     border-color: darkgray;
     
 }
