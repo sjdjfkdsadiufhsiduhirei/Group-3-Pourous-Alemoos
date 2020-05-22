@@ -20,3 +20,8 @@ p{
 .Link:hover{
     opacity: 0.5;
 }
+a{
+    color: green;
+    padding-left: 10px;
+    padding-right: 10px;
+}
