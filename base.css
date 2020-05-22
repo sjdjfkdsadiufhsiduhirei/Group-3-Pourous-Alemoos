@@ -1,6 +1,8 @@
 @charset "UTF-8"
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: auto;
+    margin-left: auto;
 }  
 p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
