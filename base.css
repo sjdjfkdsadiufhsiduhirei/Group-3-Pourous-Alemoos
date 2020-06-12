@@ -2,8 +2,6 @@
 
 h1{
     font-family: Verdana, Geneva, 'Tahoma sans-serif';
-    margin-right: auto;
-    margin-left: auto;
     color: darkblue;
 }
 .Image{
@@ -34,4 +32,9 @@ p{
     margin-bottom: 0em;
 }
 body{
+    margin-right: auto;
+    margin-left: auto;
+}
+.side-image{
+    float: right;
 }
