@@ -28,11 +28,9 @@ p{
     margin-top: 0.5em;
     margin-bottom: 0em;
 }
-body{
-    margin-right: auto;
-    margin-left: auto;
-}
 main{
     float: left;
     width: 75%;
+    border: indigo solid 1%;
+    margin-left: 1%;
 }
