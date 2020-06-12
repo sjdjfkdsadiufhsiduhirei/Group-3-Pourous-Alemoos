@@ -31,6 +31,8 @@ p{
 main{
     float: left;
     width: 75%;
-    border: indigo solid 1%;
+    border-style: solid;
+    border-color: mediumblue;
+    border-width: 0.001%;
     margin-left: 1%;
 }
