@@ -24,7 +24,6 @@ p{
     font-size: large;
     color: dimgray;
     margin-top: 0.5em;
-    margin-bottom: 0em;
 }
 main{
     float: left;
@@ -33,4 +32,10 @@ main{
 }
 .footer-para, .footer-links{
     font-size: small;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer-para{
+    margin-top: 10em;
 }
