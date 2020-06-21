@@ -15,9 +15,7 @@ a{
     color: green;   
     padding-left: 10px;
     padding-right: 10px;
-    border-style: solid;
-    border-top: white;
-    border-bottom: white;
+    font-size: large;
 }
 
 p{
@@ -31,8 +29,8 @@ p{
 main{
     float: left;
     width: 75%;
-    border-style: solid;
-    border-color: mediumblue;
-    border-width: 0.001%;
     margin-left: 1%;
+}
+.footer-para, .footer-links{
+    font-size: small;
 }
