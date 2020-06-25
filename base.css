@@ -39,3 +39,9 @@ main{
 .footer-para{
     margin-top: 10em;
 }
+body{
+    /* background-color: darkcyan; if we use this then we need different font colour*/
+    /* background-color: goldenrod if we use this then we need a blue-ish font colour*/
+    /* background-color: steelblue if we use this then we need different font colour*/ 
+    ;
+}
