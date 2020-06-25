@@ -2,7 +2,7 @@
 
 h1{
     font-family: Verdana, Geneva, 'Tahoma sans-serif';
-    color: darkblue;
+    color: whitesmoke
 }
 .Image{
     width: 350px;
@@ -22,7 +22,7 @@ p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: normal;
     font-size: large;
-    color: indigo;
+    color:goldenrod;
     margin-top: 0.5em;
 }
 main{
@@ -40,8 +40,5 @@ main{
     margin-top: 10em;
 }
 body{
-    /* background-color: darkcyan; if we use this then we need different font colour*/
-    background-color: goldenrod
-    /* background-color: steelblue if we use this then we need different font colour*/ 
-    ;
+    background-color: darkcyan;
 }
