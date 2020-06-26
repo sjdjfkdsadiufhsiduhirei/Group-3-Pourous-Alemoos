@@ -1,23 +1,4 @@
 @charset "UTF-8";
-
-h1{
-    font-family: Verdana, Geneva, 'Tahoma sans-serif';
-    color: snow;
-}
-.Image{
-    width: 350px;
-}
-
-.Link:hover{
-    opacity: 0.5;
-}
-a{
-    color: darkgray;
-    padding-left: 10px;
-    padding-right: 10px;
-    font-size: large;
-}
-
 p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: normal;
@@ -25,11 +6,39 @@ p{
     color:goldenrod;
     margin-top: 0.5em;
 }
+body{
+    background-color: darkcyan; 
+}
 main{
     float: left;
     width: 75%;
     margin-left: 1%;
     padding-right: 3px;
+}
+img{
+    margin-left: 5px;
+    border-left: solid 3px salmon;
+    padding-left: 7px;
+}
+a{
+    color: darkgray;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: large;
+}
+h1{
+    font-family: Verdana, Geneva, 'Tahoma sans-serif';
+    color: snow;
+}
+.homepage-images{
+    width: ;
+    height: ;
+    margin-left: 5px;
+    border-left: solid 3px salmon;
+    padding-left: 7px;
+}
+.Link:hover{
+    opacity: 0.5;
 }
 .footer-para, .footer-links{
     font-size: medium;
@@ -39,12 +48,4 @@ main{
 }
 .footer-para{
     margin-top: 2em;
-}
-body{
-    background-color: darkcyan; 
-}
-img{
-    margin-left: 5px;
-    border-left: solid 3px salmon;
-    padding-left: 7px;
 }
