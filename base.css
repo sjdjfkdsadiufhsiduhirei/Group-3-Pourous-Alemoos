@@ -39,10 +39,9 @@ h1{
 }
 .homepage-links{
     color: darkgray;
-    padding-left: 10px;
-    padding-right: 10px;
     font-size: larger;
-    margin-right: 500px;
+    margin-right: 100px;
+    margin-left: 50px;
 }
 a:hover{
     opacity: 0.5;
