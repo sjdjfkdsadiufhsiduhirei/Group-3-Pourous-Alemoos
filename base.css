@@ -34,14 +34,33 @@ h1{
     width: 200px;
     height: 200px;
     margin-left: 5px;
+    margin-right: 10px;
     border-left: hidden;
     padding-left: 7px;
 }
 .homepage-links{
     color: darkgray;
     font-size: larger;
-    margin-right: 100px;
+    margin-right: 10px;
     margin-left: 50px;
+}
+.anime-character-homepage-link{
+    color: darkgray;
+    font-size: larger;
+    margin-right: 0.5%;
+    margin-left: 51px;
+}
+.history-of-anime-link{
+    color: darkgray;
+    font-size: larger;
+    margin-right: 0px;
+    margin-left: 50px;
+}
+.last-link{
+    color: darkgray;
+    font-size: larger;
+    margin-right: 0px;
+    margin-left: 1px;
 }
 a:hover{
     opacity: 0.5;
