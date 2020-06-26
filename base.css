@@ -34,7 +34,7 @@ h1{
     width: ;
     height: ;
     margin-left: 5px;
-    border-left: solid 3px salmon;
+    border-left: hidden;
     padding-left: 7px;
 }
 .Link:hover{
