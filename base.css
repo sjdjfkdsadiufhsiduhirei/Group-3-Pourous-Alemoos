@@ -38,9 +38,13 @@ h1{
     padding-left: 7px;
 }
 .homepage-links{
+    color: darkgray;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: larger;
     margin-right: 500px;
 }
-.Link:hover{
+a:hover{
     opacity: 0.5;
 }
 .footer-para, .footer-links{
