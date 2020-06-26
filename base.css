@@ -40,7 +40,13 @@ h1{
 .homepage-links{
     color: darkgray;
     font-size: larger;
-    margin-right: 150px;
+    margin-right: 1%;
+    margin-left: 50px;
+}
+.anime-character-homepage-link{
+    color: darkgray;
+    font-size: larger;
+    margin-right: 1%;
     margin-left: 50px;
 }
 a:hover{
