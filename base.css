@@ -21,7 +21,7 @@ a{
 p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: normal;
-    font-size: large;
+    font-size: larger;
     color:goldenrod;
     margin-top: 0.5em;
 }
@@ -29,6 +29,8 @@ main{
     float: left;
     width: 75%;
     margin-left: 1%;
+    padding-right: 3px;
+}
 }
 .footer-para, .footer-links{
     font-size: medium;
@@ -37,11 +39,13 @@ main{
     margin-right: auto;
 }
 .footer-para{
-    margin-top: 10em;
+    margin-top: 2em;
 }
 body{
     background-color: darkcyan;
 }
 img{
-    margin-left: 5px;  
+    margin-left: 5px;
+    border-left: solid 3px salmon;
+    padding-left: 7px;
 }
