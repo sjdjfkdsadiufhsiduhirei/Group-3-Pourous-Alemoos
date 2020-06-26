@@ -42,3 +42,6 @@ main{
 body{
     background-color: darkcyan;
 }
+img{
+    margin-left: 5px;  
+}
