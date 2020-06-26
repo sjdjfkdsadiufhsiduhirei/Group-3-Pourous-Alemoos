@@ -50,6 +50,18 @@ h1{
     margin-right: 0.5%;
     margin-left: 51px;
 }
+.history-of-anime-link{
+    color: darkgray;
+    font-size: larger;
+    margin-right: 0px;
+    margin-left: 50px;
+}
+.last-link{
+    color: darkgray;
+    font-size: larger;
+    margin-right: 0px;
+    margin-left: 1px;
+}
 a:hover{
     opacity: 0.5;
 }
